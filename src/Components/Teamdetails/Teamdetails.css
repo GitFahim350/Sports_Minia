@@ -1,0 +1,44 @@
+.indteam_inf{
+    background-color: rgb(21, 0, 78);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cont_class{
+    width: 90%;
+    background-color: rgb(238, 53, 20);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    flex-wrap: wrap;
+}
+.info_div
+{
+    width: 400px;
+}
+.team_div{
+    width: 400px;
+}
+.team_div img{
+    width: 100%;
+}
+.background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    
+
+}
+.background img{
+    border-radius: 100%;
+    width: 150px;
+    background-color: white;
+}
+.des{
+    width: 90%;
+}
